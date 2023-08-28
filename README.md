@@ -1,2 +1,2 @@
-# dl_with_python
-Implementation of programs given in the book "Deep Learning with Python" by François Chollet.
+# basic-ml-daatsets
+Codes for the solution of popular problems in machine learning.
